@@ -42,9 +42,9 @@ export const Intro = () => {
         <div className="dropdown hide-mobile">
           <Button isLink className="button" href={email} label='Send me a message' />
         </div>
-        <span className="intro-link">
+        <span className="intro-link" onClick={() => scrollTo('samples')}>
           <Arrow />
-          <span className="link" onClick={() => scrollTo('samples')}>See some samples</span>
+          <span className="link">See some samples</span>
         </span>
       </div>
     </Wrapper>
