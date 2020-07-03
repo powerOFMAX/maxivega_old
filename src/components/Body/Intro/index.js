@@ -37,7 +37,7 @@ export const Intro = () => {
       </div>
       <h1 className="intro-title">Software Developer</h1>
       <h4 className="intro-text">I help companies &amp; individuals to turn their ideas into great software. Always looking for agile development. Language enthusiast. <span role="img" aria-label=
-        'flags'>🇦🇷🇩🇪🇺🇸🇬🇧🇮🇹🇯🇵</span></h4>
+        'flags'>🇦🇷🇩🇪🇺🇸🇬🇧🇮🇹🇯🇵🇵🇱</span></h4>
       <div className="intro-actions">
         <div className="dropdown hide-mobile">
           <Button isLink className="button" href={email} label='Send me a message' />
