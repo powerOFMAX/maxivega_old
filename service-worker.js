@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maxivega/precache-manifest.a918d278b64b8098bbea91048dc18f71.js"
+  "/maxivega/precache-manifest.3629ea6a2f1970100270f00436bee39e.js"
 );
 
 self.addEventListener('message', (event) => {

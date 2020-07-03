@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.js": "/maxivega/static/js/main.2096021c.chunk.js",
-    "main.js.map": "/maxivega/static/js/main.2096021c.chunk.js.map",
+    "main.js": "/maxivega/static/js/main.0eaedcee.chunk.js",
     "runtime-main.js": "/maxivega/static/js/runtime-main.6ecf1ea2.js",
-    "runtime-main.js.map": "/maxivega/static/js/runtime-main.6ecf1ea2.js.map",
-    "static/js/2.2c32d83b.chunk.js": "/maxivega/static/js/2.2c32d83b.chunk.js",
-    "static/js/2.2c32d83b.chunk.js.map": "/maxivega/static/js/2.2c32d83b.chunk.js.map",
+    "static/js/2.4b55333a.chunk.js": "/maxivega/static/js/2.4b55333a.chunk.js",
     "index.html": "/maxivega/index.html",
-    "precache-manifest.a918d278b64b8098bbea91048dc18f71.js": "/maxivega/precache-manifest.a918d278b64b8098bbea91048dc18f71.js",
+    "precache-manifest.3629ea6a2f1970100270f00436bee39e.js": "/maxivega/precache-manifest.3629ea6a2f1970100270f00436bee39e.js",
     "service-worker.js": "/maxivega/service-worker.js",
-    "static/js/2.2c32d83b.chunk.js.LICENSE.txt": "/maxivega/static/js/2.2c32d83b.chunk.js.LICENSE.txt"
+    "static/js/2.4b55333a.chunk.js.LICENSE.txt": "/maxivega/static/js/2.4b55333a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ecf1ea2.js",
-    "static/js/2.2c32d83b.chunk.js",
-    "static/js/main.2096021c.chunk.js"
+    "static/js/2.4b55333a.chunk.js",
+    "static/js/main.0eaedcee.chunk.js"
   ]
 }
