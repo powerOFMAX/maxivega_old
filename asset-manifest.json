@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/maxivega/static/js/main.ac960ea0.chunk.js",
+    "main.js": "/maxivega/static/js/main.02bf650f.chunk.js",
     "runtime-main.js": "/maxivega/static/js/runtime-main.6ecf1ea2.js",
     "static/js/2.4b55333a.chunk.js": "/maxivega/static/js/2.4b55333a.chunk.js",
     "index.html": "/maxivega/index.html",
-    "precache-manifest.ddcd53f5298e05b915ca3e43ee9e30e4.js": "/maxivega/precache-manifest.ddcd53f5298e05b915ca3e43ee9e30e4.js",
+    "precache-manifest.9ed0053b0e4e32beb290b478a2bb1294.js": "/maxivega/precache-manifest.9ed0053b0e4e32beb290b478a2bb1294.js",
     "service-worker.js": "/maxivega/service-worker.js",
     "static/js/2.4b55333a.chunk.js.LICENSE.txt": "/maxivega/static/js/2.4b55333a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ecf1ea2.js",
     "static/js/2.4b55333a.chunk.js",
-    "static/js/main.ac960ea0.chunk.js"
+    "static/js/main.02bf650f.chunk.js"
   ]
 }
