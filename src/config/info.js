@@ -1,8 +1,7 @@
 export const data = {
   email: "vega-maximiliano@outlook.com",
   name: "Maximiliano Ivan Vega",
-  imageUrl:
-    "https://media-exp1.licdn.com/dms/image/C4D03AQHesIOnqPFHvA/profile-displayphoto-shrink_400_400/0?e=1599091200&v=beta&t=w9UzkXOSwwzAhqQ_jZjeMKbw_a0sP1jR3MxXLQ6ahdk",
+  imageUrl: "/maxivega/img.jpg",
   github: "https://github.com/powerOFMAX",
   linkedin: "https://www.linkedin.com/in/maxivega/",
   medium: "https://medium.com/@powerOFMAX",
@@ -24,6 +23,14 @@ export const sample = {
   image4: {
     src: "https://imgur.com/4p8jdFa.jpg",
     alt: "minesweeper",
+  },
+  image5: {
+    src: "https://github.com/powerOFMAX/mate-store/blob/master/mate.png?raw=true",
+    alt: "mate-store",
+  },
+  image6: {
+    src: "/maxivega/smg.jpg",
+    alt: "smg",
   },
 };
 

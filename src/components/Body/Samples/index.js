@@ -3,7 +3,7 @@ import { Element } from 'react-scroll'
 import { sample } from '../../../config/info'
 import { Wrapper } from './styled'
 
-const { image1, image2, image3, image4 } = sample
+const { image1, image2, image3, image4, image5, image6 } = sample
 
 export const Samples = () => {
   return (
@@ -21,6 +21,12 @@ export const Samples = () => {
           <img src={image1.src} alt={image1.alt}></img>
         </div>
         <div style={{ width: '70%' }}>
+          <img src={image6.src} alt={image6.alt}></img>
+        </div>
+        <div style={{ width: '40%' }}>
+          <img src={image5.src} alt={image5.alt}></img>
+        </div>
+        <div style={{ width: '55%' }}>
           <img src={image2.src} alt={image2.alt}></img>
         </div>
         <div style={{ width: '55%', maxHeight: '412px' }}>
