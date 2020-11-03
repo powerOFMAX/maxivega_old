@@ -1,8 +1,7 @@
 export const data = {
   email: "vega-maximiliano@outlook.com",
   name: "Maximiliano Ivan Vega",
-  imageUrl:
-    "https://media-exp1.licdn.com/dms/image/C4D03AQHesIOnqPFHvA/profile-displayphoto-shrink_400_400/0?e=1599091200&v=beta&t=w9UzkXOSwwzAhqQ_jZjeMKbw_a0sP1jR3MxXLQ6ahdk",
+  imageUrl: "https://github.com/powerOFMAX/maxivega/blob/dev/public/assets/img.jpg?raw=true",
   github: "https://github.com/powerOFMAX",
   linkedin: "https://www.linkedin.com/in/maxivega/",
   medium: "https://medium.com/@powerOFMAX",
@@ -10,19 +9,19 @@ export const data = {
 
 export const sample = {
   image1: {
-    src: "https://imgur.com/wIV3K4e.jpg",
+    src: "https://github.com/powerOFMAX/maxivega/blob/dev/public/assets/puppyvisor.jpg?raw=true",
     alt: "puppyvisor",
   },
   image2: {
-    src: "https://i.imgur.com/CzDOkD4.jpg",
+    src: "https://github.com/powerOFMAX/maxivega/blob/dev/public/assets/apartment-finder.jpg?raw=true",
     alt: "apartment-finder",
   },
   image3: {
-    src: "https://imgur.com/4pymn4O.jpg",
+    src: "https://github.com/powerOFMAX/maxivega/blob/dev/public/assets/spotify.jpg?raw=true",
     alt: "spotify",
   },
   image4: {
-    src: "https://imgur.com/4p8jdFa.jpg",
+    src: "https://github.com/powerOFMAX/maxivega/blob/dev/public/assets/minesweeper.jpg?raw=true",
     alt: "minesweeper",
   },
 };
