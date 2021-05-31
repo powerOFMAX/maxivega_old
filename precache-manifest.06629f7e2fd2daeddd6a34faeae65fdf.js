@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a8d539293d9200f82a1ac84339d733a",
+    "revision": "ba4cbef84016d1259364dd4109729dad",
     "url": "/maxivega/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maxivega/static/js/2.c41b5ae9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ff70b28ce86c992e9f2",
-    "url": "/maxivega/static/js/main.53d0dcb2.chunk.js"
+    "revision": "8bbf424f4bb31aac8276",
+    "url": "/maxivega/static/js/main.117cbe5d.chunk.js"
   },
   {
     "revision": "65b1fe234f6013149113",
