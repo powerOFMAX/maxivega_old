@@ -8,7 +8,7 @@ const MenuItem = ({ title, subtitle, image }) => {
     <div className='menu-item'>
       <div className='card'>
         <h3 className='card-title'>{title}</h3>
-        <h5>{subtitle}</h5>
+        <h5 style={{whiteSpace: "pre-wrap"}}>{subtitle}</h5>
         <img draggable='false' height='100' src={image} alt='draggable-card' style={{ display: 'flex', margin: 'auto' }}></img>
       </div>
     </div>
